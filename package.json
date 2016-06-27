@@ -1,0 +1,25 @@
+{
+  "name": "api-rest-cervezas",
+  "version": "1.0.0",
+  "description": "cervezas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aborola/cervezas-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aborola/cervezas-node/issues"
+  },
+  "homepage": "https://github.com/aborola/cervezas-node#readme",
+  "devDependencies": {
+    "eslint": "^2.13.1"
+  },
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
